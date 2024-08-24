@@ -7,5 +7,9 @@
     "@nomicfoundation/hardhat-toolbox": "^2.0.1",
     "ethers": "^5.7.2",
     "hardhat": "^2.14.1"
+  },
+  "dependencies": {
+    "@chainlink/local": "^0.2.1",
+    "forge-std": "^1.1.2"
   }
 }
